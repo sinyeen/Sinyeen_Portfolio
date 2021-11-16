@@ -1,6 +1,6 @@
 <img src="https://github.com/sinyeen/Sinyee_Portfolio/blob/main/images/Sinyee's%20Portfolio.gif">
 
-# Hello, folks! :girl: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f467.png?v8" width="30px"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Sin Yee and I am from Malaysia. I am a data science graduate from Monash University who is passionate in data processing, predictive analytics, and machine learning. I am excited in the ways data can be used to shape our future. 
 
 
