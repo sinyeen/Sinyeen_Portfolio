@@ -19,3 +19,16 @@ Develop machine learning models to predict the pedestrian traffic in the City of
 | 1 | Predict whether count would go above 2000 for the hours **between 9:00am and midnight** | Binary classification|
 | 2 | Predict the possible count for the hours **between 9:00am and midnight** | Regression |
 
+# [Project 3: EDA & ML: Electric Rotor Temperature Prediction](https://github.com/sinyeen/Electric-Rotor-Temperature-Prediction.git) :electric_plug:
+The aim of this project is to make prediction on rotor temperature (pm) and find the best model among the other conducted models. The exploratory data analysis (EDA) is presented in the first section of the notebook to anaylise and summarise the characteristic of the variables and the relationship between the variables. Statistical graphics and data visualisation techniques will be used in the section. The second section of the notebook will be the development of regression model. The process in building the model will be presented in this section in detail. Each model will be compared with explaination and the best one will be selected.
+
+The R-squared value and RMSE of the training and testing set of the models are shown as below:
+
+|Model  |Computation Time|R-square  |RMSE                                                                            |
+|-----------|-----------|----------|--------------------------------------------------------------------------------------|
+|least square regression (full model)|0.01s|0.462|0.7096|
+|least square regression (with interaction terms)|0.01s  |0.678|0.598|
+|Ridge regression    |0.7s  |0.393|0.696| 
+|Lasso regression        |0.73s  |0.448|0.709     |
+|KNN        |2.73s  |0.832|0.716|
+|Random forest|274.42  |-0.372|0.827                                    |
