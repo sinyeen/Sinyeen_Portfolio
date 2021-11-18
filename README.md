@@ -24,7 +24,7 @@ This shiny application is designed to **interactively visualise the relationship
 <br>
 
 # [Project 3: Data Processing for Big Data: Pedestrain Traffic Prediction](https://github.com/sinyeen/Pedestrain_Traffic_Prediction_BigData.git) <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a6.png?v8" width="30px">
-Develop machine learning models to **predict the pedestrian traffic in the City of Melbourne**. The machine learning models would be further integrated into the streaming platform using `Apache Kafka` and `Apache Spark` Streaming to perform prediction. Detailed **feature engineering** will be presented. The aim of this project is to build models for predicting whether the potential count would go above the threshold of 2000 and also predicting the possible count.
+Develop machine learning models to **predict the pedestrian traffic in the City of Melbourne**. The machine learning models would be further integrated into the streaming platform using `Apache Kafka` and `Apache Spark` Streaming to perform prediction. Detailed **feature engineering** is presented in the notebook. The aim of this project is to build models for predicting whether the potential count would go above the threshold of 2000 and also predicting the possible count.
 
 | Use Case | Description | Model |
 | --- | ----------- | --- |
