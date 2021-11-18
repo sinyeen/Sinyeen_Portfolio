@@ -34,7 +34,7 @@ Develop machine learning models to **predict the pedestrian traffic in the City 
 <br>
 
 # [Project 4: EDA & ML: Electric Rotor Temperature Prediction](https://github.com/sinyeen/Electric-Rotor-Temperature-Prediction.git) <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png?v8" width="30px">
-The aim of this project is to make **prediction on rotor temperature (pm)** and find the best model among the other conducted models. A **detailed exploratory data analysis (EDA)** is presented in the first section of the notebook to anaylise and summarise the characteristic of the variables and the relationship between the variables. Statistical graphics and data visualisation techniques will be used in the section. The second section of the notebook will be the development of regression model. The process in building the model will be presented in this section in detail. Each model will be compared with explaination and the best one will be selected.
+The aim of this project is to make **prediction on rotor temperature (pm)** and find the best model among the other conducted models. A **detailed exploratory data analysis (EDA)** is presented in the first section of the notebook to anaylise and summarise the characteristic of the variables and the relationship between the variables. **Statistical graphics and data visualisation techniques** will be used in the section. The second section of the notebook will be the development of regression model. The process in building the model will be presented in this section in detail. Each model will be compared with explaination and the best one will be selected.
 
 The R-squared value and RMSE of the training and testing set of the models are shown as below:
 
