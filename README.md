@@ -8,7 +8,7 @@ My name is Sin Yee. I am a data science graduate from Monash University who is p
 # [Project 1: Award Winning IE Project - Happy Corals](https://github.com/sinyeen/HappyCorals.git) <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f422.png?v8" width="30px"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d6.png?v8" width="30px">
 Our reefs are facing a growing combination of threats such as climate change, water quality, coastal development, and tourism. A majority of Australia's children do not have sufficient information and awareness about the importance of the preservation of coral reefs. It can be a little dry and distant when kids learn about biomes and ecosystems in school. **The main objective of our project is to create a data-driven educational website that is interactive and engaging to help children in Australia learn about coral reefs and things they can do on a daily basis to make a difference for the reefs.**
 
-![](https://github.com/sinyeen/HappyCorals/blob/main/Images/Capture.PNG)
+![](https://github.com/sinyeen/HappyCorals/blob/main/Images/web.PNG)
 
 **Product Link:** [Happy Corals](https://www.happycoral.tk/)
 
